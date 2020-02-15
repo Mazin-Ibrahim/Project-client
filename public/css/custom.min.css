@@ -1,0 +1,26 @@
+@font-face {
+font-family: 'Droid';
+src: url('DroidSansArabic_0.ttf');
+}
+
+
+@font-face {
+font-family: 'Go';
+src: url('GOTHIC.ttf');
+}
+html, body, head, title, form, fieldset, table, tr, td, img,i,span,a
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Go','Droid';
+}
+
+input, button, select, textarea, optgroup, option {
+    font-family: 'Go','Droid';
+}
+
+/* rest of your styles; like: */
+body {
+    font-family: 'Go','Droid';
+}
+*{
+	font-family: 'Go','Droid';
+}
